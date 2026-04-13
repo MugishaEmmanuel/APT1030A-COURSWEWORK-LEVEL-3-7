@@ -61,7 +61,7 @@ Implements a login validation program in Python, Java, and C++ that checks hardc
 | `Login Validation.py` | Python |
 | `error_analysis.md` | Analysis |
 
-Key analysis (`error_analysis.md`):
+Key analysis:
 - Syntax errors introduced and documented per language
 - Logical error (wrong comparison operator) explained — why it compiles but behaves incorrectly
 
@@ -69,7 +69,6 @@ Key analysis (`error_analysis.md`):
 
 ### Level 2 — Data Types & Type Systems
 **Context:** SACCO Member Financial Record
-
 Stores member name, ID, monthly contribution, and computes total savings over 6 months.
 
 | File | Language |
@@ -78,7 +77,7 @@ Stores member name, ID, monthly contribution, and computes total savings over 6 
 | `SaccoRecords.java` | Java |
 | `type_analysis.md` | Analysis |
 
-Key analysis (`type_analysis.md`):
+Key analysis :
 - Static vs dynamic typing observed when assigning a string to a numeric field
 - Justification for static typing in financial systems vs dynamic typing in startup environments
 
