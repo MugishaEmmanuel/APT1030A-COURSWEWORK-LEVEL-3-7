@@ -1,6 +1,6 @@
 # APT1030-A — Fundamentals of Programming Languages
 
-> **Course:** APT1030-A | **Level:** 1–7 | **Institution:** [Your Institution Name]
+> **Course:** APT1030-A | **Level:** 1–7 | **Institution:** USIU-Africa
 
 A comprehensive coursework project covering core programming language concepts through seven progressive levels, each grounded in real-world Kenyan contexts — from eCitizen login systems to mobile money DSLs.
 
